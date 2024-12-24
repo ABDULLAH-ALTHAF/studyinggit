@@ -34,5 +34,10 @@ come to the main branch
 git merge branch-name
 merge our branch with main branch
 
+git branch -d branch-name
+this is used to delete the branch
+
+git branch -D brach-name
+this is used to force delete (if not merged)
 
 
