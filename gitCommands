@@ -62,4 +62,33 @@ this is used to delete the branch
 git branch -D brach-name
 this is used to force delete (if not merged)
 
+git rm review.js
+used to remove a file from folder
+
+git tag v1.0
+to mark a specefic commit with a tag
+
+git push origin v1.0
+to push the tag to git hub
+
+git --version
+to know the current version
+
+git init
+to create new repository on the current folder
+
+git clone <here the repo link>
+here this was used to clone an repositry from github
+
+git config --list
+to see the list of git config
+
+git config --global user.name "Your Name"
+to set our global username
+
+git config --global user.email "youremail@example.com"
+to set global email
+
+
+
 
