@@ -1,0 +1,11 @@
+git log
+to show the all commits that i have commited
+
+git log --oneline
+it will show the commits in a one line 
+
+git add file-name.js
+it will stages for to commit 
+
+git add .
+this will stages all file for to commit 
