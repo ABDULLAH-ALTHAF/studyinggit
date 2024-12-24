@@ -40,4 +40,26 @@ this is used to delete the branch
 git branch -D brach-name
 this is used to force delete (if not merged)
 
+git diff 
+to compare working directory with our last commit
 
+git diff --staged
+to compare with staged changes
+
+git reset --soft HEAD~1
+to undo the last commit
+
+git reset --hard HEAD~1
+to discard changes completely
+
+git branch -d branch-name
+this is used to delete the branch
+
+git branch -D brach-name
+this is used to force delete (if not merged)
+
+git stash 
+used to save changes without commiting and that time it will disappear that time we use git stash apply
+
+git stash apply
+to apply stashed changes
