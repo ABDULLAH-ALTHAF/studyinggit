@@ -28,5 +28,11 @@ this will switch to the brach named branch-name
 git checkout -b branch-name
 this is actually a short cut to create and switch to a new branch
 
+git checkout main 
+come to the main branch
+
+git merge branch-name
+merge our branch with main branch
+
 
 
