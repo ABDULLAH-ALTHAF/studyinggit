@@ -4,8 +4,29 @@ to show the all commits that i have commited
 git log --oneline
 it will show the commits in a one line 
 
+git add .
+this will stages all file for to commit 
+
 git add file-name.js
 it will stages for to commit 
 
-git add .
-this will stages all file for to commit 
+git commit -m "description about the updation"
+to commit the changes and a message about that commit
+
+git push 
+this will upload the changes to our repo
+
+git pull origin main
+this will fetch and merge from github repo to our local repo
+
+git branch branch-name
+this will create a new branch name as branch-name
+
+git checkout branch-name
+this will switch to the brach named branch-name
+
+git checkout -b branch-name
+this is actually a short cut to create and switch to a new branch
+
+
+
